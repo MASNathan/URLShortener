@@ -1,0 +1,3 @@
+[submodule "APIcaller"]
+	path = APIcaller
+	url = git@github.com:ReiDuKuduro/APIcaller.git
