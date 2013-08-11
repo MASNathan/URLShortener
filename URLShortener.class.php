@@ -1,6 +1,6 @@
 <?php
 
-require_once 'APIcaller.class.php';
+require_once 'APIcaller/APIcaller.class.php';
 
 /**
  * URLShortener - Uses either adlfy, tinyurl or y2u.be to shorten an url
